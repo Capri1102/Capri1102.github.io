@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Southeast University</a>. Nanjing.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2968.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ph.d. Southeast University</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 4th-year Ph.D. student at Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN). I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) and Prof. [Tian He](https://www-users.cs.umn.edu/~tianhe/) in research. 
+Previously, I was a Graduate Research Trainee at the Cyber Physical Systems Lab, McGill University, under the supervision of Prof. [Xue Liu](https://www.cs.mcgill.ca/~xueliu/site/intro.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are broadly in the areas of **Cyber-Physical Systems**, **Human-Centered Computing**, and **Learning-based Decision-Making Applications** in **Smart Logistics**.<br>You can contact me at guobaoshen AT seu DOT edu DOT cn.
+My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=og2Z6YMAAAAJ&hl=zh-CN). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term research goal is to build **R**obust, **I**nterpretable, **S**afe, and **E**fficient decision-making technologies and AI model for real-world systems.
+
+> I will join [M3S](https://m3s.mit.edu/), part of MIT' [SMART](https://smart.mit.edu/) program as a Postdoc in Fall 2024! I am open to research discussion and collaboration, please drop me an email if you are interested!
