@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Southeast University</a>. Nanjing.
+subtitle: <a href='#'>Singapore-MIT Alliance for Research and Technology</a>.
 
 profile:
   align: right
