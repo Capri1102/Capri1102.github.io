@@ -9,12 +9,15 @@ nav_order: 6
 
 ### PC or Reviewer
 
+* SIGKDD 2025
+* AAAI 2025
+* WWW 2025
 * SIGKDD 2024 ADS track
 * AAAI 2024
 * WWW 2024 Research track, Industrial track
 * SIGKDD 2023 ADS track
-* IMWUT 2022, 2023, 2024
-* IEEE TOSN
+* IMWUT 2022, 2023, 2024, 2025
+* IEEE TOSN 2023, 2024, 2025
 * IEEE/ACM Transactions on Networking
 * ICPADS 2021 
 * Computer Communications
@@ -45,6 +48,7 @@ nav_order: 6
 
 ### Enlightening blogs
 * [AI for social good.](https://yoshuabengio.org/2021/05/10/when-maximizing-individual-interests-can-make-us-all-lose-usually-some-losing-more-than-others/)
+* [Diffusion language models.](https://sander.ai/2023/01/09/diffusion-language.html)
 
 
 ### Data-sets
