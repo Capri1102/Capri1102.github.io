@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT), work with Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) and Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/). 
 
-I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/).
+I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/).
 Previously, I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en). 
 I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research. 
 
