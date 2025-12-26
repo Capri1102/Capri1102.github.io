@@ -21,14 +21,14 @@ nav_order: 6
 
 ### Working Experiences
 
-> - **Postdoc Associate, AI Research Scientist**, 2024-09 ~ current, M3S Program, SMART Centre, MIT
+* **Postdoc Associate, AI Research Scientist**, 2024-09 ~ current, M3S Program, SMART Centre, MIT
 
 
-> - **Graduated Research Trainee**, 2023-05 ~ 2024-04, Computer Science, McGill University
+* **Graduated Research Trainee**, 2023-05 ~ 2024-04, Computer Science, McGill University
 
-> - **Research Intern**, 2021-04 ~ 2024-04, Data and AI Lab, JD Logistics
+* **Research Intern**, 2021-04 ~ 2024-04, Data and AI Lab, JD Logistics
 
-> - **Research Intern**, 2020-08 ~ 2021-04, Eleme AI Lab, Alibaba Group
+* **Research Intern**, 2020-08 ~ 2021-04, Eleme AI Lab, Alibaba Group
 
 
 ### PC or Reviewer
