@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Singapore-MIT Alliance for Research and Technology, Massachusetts Institute of Technology</a>.
 

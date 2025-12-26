@@ -6,7 +6,7 @@ title: BAOSHEN GUO # the website title (if blank, full name will be used instead
 first_name: Baoshen
 middle_name:
 last_name: Guo
-email: guobaoshen@seu.edu.cn
+email: baoshen@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Baoshen Guo.
 footer_text: >
@@ -54,7 +54,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
