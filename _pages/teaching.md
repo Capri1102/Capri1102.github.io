@@ -7,6 +7,30 @@ nav: true
 nav_order: 6
 ---
 
+
+### Awards
+
+* **Outstanding Paper Award of RTSS, 2021 (CCF-A)**
+* **Best Student Paper Award of ICA3PP, 2023**
+* **Distinguish Paper Award** for WePos, IoT Committee of Chinese Institute of Electronics, 2023.
+* **Best Paper Candidate of RTSS, 2021**
+* National Doctoral Scholarship, 2023
+* **Best Student Paper Award of IEEE ISPA, 2023**
+* Southeast University Education Foundation Scholarship, 2022
+* Outstanding Thesis Award, Southeast University, 2019
+
+### Working Experiences
+
+> - **Postdoc Associate, AI Research Scientist**, 2024-09 ~ current, M3S Program, SMART Centre, MIT
+
+
+> - **Graduated Research Trainee**, 2023-05 ~ 2024-04, Computer Science, McGill University
+
+> - **Research Intern**, 2021-04 ~ 2024-04, Data and AI Lab, JD Logistics
+
+> - **Research Intern**, 2020-08 ~ 2021-04, Eleme AI Lab, Alibaba Group
+
+
 ### PC or Reviewer
 
 * WWW 2026, Industrial track, Short paper track
@@ -25,20 +49,8 @@ nav_order: 6
 * ICPADS 2021 
 * Computer Communications
 
-### Awards
-
-* Outstanding Paper Award of RTSS, 2021
-* Best Student Paper Award of ICA3PP, 2023
-* National Doctoral Scholarship, 2023 
-* Distinguish Paper Award for WePos, IoT Committee of Chinese Institute of Electronics, 2023.
-* Southeast University Education Foundation Scholarship, 2022
-* Best Paper Candidate of RTSS, 2021
-* Outstanding Thesis Award, Southeast University, 2019
-
-
 ### Useful Links 
 
-* [Writing Tips for Academics](https://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics/)
 * [ccf-deadline](https://ccfddl.github.io/)
 * [Rendering math equation using TeX](https://matplotlib.org/stable/gallery/text_labels_and_annotations/tex_demo.html)
 * [time.is/Anywhere_on_Earth](https://time.is/Anywhere_on_Earth)
