@@ -9,6 +9,8 @@ nav_order: 6
 
 ### PC or Reviewer
 
+* WWW 2026, Industrial track, Short paper track
+* AAAI 2026
 * SIGKDD 2025
 * AAAI 2025
 * WWW 2025
@@ -19,6 +21,7 @@ nav_order: 6
 * IMWUT 2022, 2023, 2024, 2025
 * IEEE TOSN 2023, 2024, 2025
 * IEEE/ACM Transactions on Networking
+* IOT Journal
 * ICPADS 2021 
 * Computer Communications
 

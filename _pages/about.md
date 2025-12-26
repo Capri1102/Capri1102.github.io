@@ -23,8 +23,7 @@ Previously, I obtained my Ph.D. degree in Computer Science from Southeast Univer
 I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research. 
 
 
-My research interests are broadly in the areas of **Generative AI**, **Human-Centered Computing**, and **Learning-based Decision-Making** in **Smart Cities** and **Urban Cyber-Physical Systems**. 
-My long-term research goal is to build **R**obust, **I**nterpretable, **S**afe, and **E**fficient reinforcement learning and generative AI models for real-world urban systems. 
+My research interests are broadly in the areas of **Generative AI**, **Diffusion Model**, **Smart Cities**, and **Cyber-Physical Systems**. 
 
 You can contact me at (baoshen DOT guo AT smart DOT mit DOT edu) or (baoshen AT mit DOT edu) if you're interested in any of my research or collaboration
 
