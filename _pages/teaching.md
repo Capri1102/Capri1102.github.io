@@ -30,6 +30,12 @@ nav_order: 6
 
 * **Research Intern**, 2020-08 ~ 2021-04, Eleme AI Lab, Alibaba Group
 
+### Education Experiences
+* **Ph.D.**, 2024-09, Computer Science, Southeast University
+
+* **Master**, 2020-09, Computer Science, Southeast University
+
+* **Bachelor**, 2019-09, Computer Science, Southeast University
 
 ### PC or Reviewer
 
