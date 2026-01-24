@@ -39,6 +39,7 @@ nav_order: 6
 
 ### PC or Reviewer
 
+* SIGKDD 2026
 * WWW 2026, Industrial track, Short paper track
 * AAAI 2026
 * SIGKDD 2025
