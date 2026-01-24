@@ -17,6 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT), work with Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) and Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/). 
+I am involved in [M3S](https://m3s.mit.edu/), part of MIT' [SMART](https://smart.mit.edu/) program.
 
 I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/).
 Previously, I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en). 
@@ -27,7 +28,6 @@ My research interests are broadly in the areas of **Generative AI**, **Diffusion
 
 You can contact me at (baoshen DOT guo AT smart DOT mit DOT edu) or (baoshen AT mit DOT edu) if you're interested in any of my research or collaboration
 
-> Opening! I am hiring research interns targeting Bachelor or Master students in Singapore. 
-> Please drop me an email if you are interested, or directly apply through [portal](https://portal.smart.mit.edu/careers/career-opportunities/job-application?job=600)
+> Opening! I am hiring research interns targeting Bachelor or Master students in Singapore. Please drop me an email if you are interested.
 
-> I am involved in [M3S](https://m3s.mit.edu/), part of MIT' [SMART](https://smart.mit.edu/) program as a Postdoc. I am open to research discussion and collaboration, please drop me an email if you are interested!
+[//]: # (> I am involved in [M3S]&#40;https://m3s.mit.edu/&#41;, part of MIT' [SMART]&#40;https://smart.mit.edu/&#41; program as a Postdoc. I am open to research discussion and collaboration, please drop me an email if you are interested!)
