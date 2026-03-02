@@ -2,15 +2,18 @@
 layout: about
 title: About
 permalink: /
-# Ben Eysenbach style: name + one-line title/affiliation, then photo (right) with contact below
-subtitle: Postdoc Associate, Singapore-MIT Alliance for Research and Technology, Massachusetts Institute of Technology.
+# Ben Eysenbach style: name + title/affiliation (with line breaks), then photo (right) with contact below
+subtitle: |
+  Postdoc Associate,
+  Singapore-MIT Alliance for Research and Technology,
+  Massachusetts Institute of Technology.
 
 profile:
   align: right
   image: IMG_2968.jpg
   image_circular: true
   more_info: >
-    <p>Email: baoshen [@] mit [DOT] edu</p>
+    <p>Email: baoshen@mit.edu</p>
 
 news: true # content from _data/news.yml (first 6 shown, rest under "▸ More news")
 selected_papers: true # includes a list of papers marked as "selected={true}"

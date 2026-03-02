@@ -9,7 +9,7 @@ nav_order: 2
 
 # Publications
 
-(\* indicates equal contribution, † indicates corresponding author)
+<!-- (\* indicates equal contribution, † indicates corresponding author) -->
 
 ## Preprints
 

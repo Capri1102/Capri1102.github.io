@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /experience/
 title: Experience
-description: 
+description: Awards, working experiences, education, and service.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 
@@ -21,7 +21,7 @@ nav_order: 6
 
 ### Working Experiences
 
-* **Postdoc Associate, AI Research Scientist**, 2024-09 ~ current, M3S Program, SMART Centre, MIT
+* **Postdoc Associate, AI Research Scientist**, 2024-09 ~ current, M3S, SMART Centre, MIT
 
 
 * **Graduated Research Trainee**, 2023-05 ~ 2024-04, Computer Science, McGill University
