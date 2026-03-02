@@ -1,0 +1,35 @@
+{% assign news_list = site.data.news %}
+{% assign show_first = 6 %}
+{% assign news_size = news_list | size %}
+
+<div class="news">
+  {% if news_list != blank and news_size > 0 %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% for item in news_list limit: show_first %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.date }}</th>
+            <td>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+      {% if news_size > show_first %}
+        <details>
+          <summary style="cursor: pointer; list-style: none;">▸ More news</summary>
+          <table class="table table-sm table-borderless">
+            {% for item in news_list %}
+              {% if forloop.index > show_first %}
+                <tr>
+                  <th scope="row" style="width: 20%">{{ item.date }}</th>
+                  <td>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</td>
+                </tr>
+              {% endif %}
+            {% endfor %}
+          </table>
+        </details>
+      {% endif %}
+    </div>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>

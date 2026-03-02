@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Postdoc Associate, SMART Singapore</p>
 
-news: true # includes a list of news items
+news: true # content from _data/news.yml (first 6 shown, rest under "▸ More news")
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -29,5 +29,3 @@ My research interests are broadly in the areas of **Generative AI**, **Diffusion
 You can contact me at (baoshen DOT guo AT smart DOT mit DOT edu) or (baoshen AT mit DOT edu) if you're interested in any of my research or collaboration
 
 > Opening! I am hiring research interns targeting Bachelor or Master students in Singapore. Please drop me an email if you are interested.
-
-[//]: # (> I am involved in [M3S]&#40;https://m3s.mit.edu/&#41;, part of MIT' [SMART]&#40;https://smart.mit.edu/&#41; program as a Postdoc. I am open to research discussion and collaboration, please drop me an email if you are interested!)

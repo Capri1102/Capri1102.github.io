@@ -40,12 +40,10 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
+    <!-- News (from _data/news.yml only; edit that file to update) -->
+    {% if page.news %}
+      <h2>news</h2>
+      {% include news_from_data.liquid %}
     {% endif %}
 
     <!-- Latest posts -->

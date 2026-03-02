@@ -1,0 +1,32 @@
+# Edit this file only. One list item per news. First 6 show on about page; rest under "▸ More news".
+# text: markdown supported (bold, links, etc.)
+
+- date: "Feb 2026"
+  text: "One paper about Urban-scale POI Updating is accepted by IEEE TMC."
+
+- date: "Dec 2025"
+  text: "Our paper about **language models for urban mobility** is online. [Paper (TechRxiv)](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)"
+
+- date: "Nov 2025"
+  text: "Two papers accepted by ACM KDD 2026."
+
+- date: "May 2025"
+  text: "Our Cascaded diffusion model based trajectory generation paper is online."
+
+- date: "Sep 2024"
+  text: "I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program."
+
+- date: "Jul 2024"
+  text: "Two co-authored papers accepted by ACM CIKM 2024."
+
+- date: "May 2024"
+  text: "One paper accepted by IEEE TKDE."
+
+- date: "May 2024"
+  text: "One paper accepted by ACM SIGKDD'24."
+
+- date: "Dec 2023"
+  text: "One paper accepted by IEEE Transactions on Mobile Computing."
+
+- date: "May 2023"
+  text: "Two papers accepted by ACM SIGKDD'23."
