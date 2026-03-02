@@ -11,27 +11,6 @@ nav_order: 2
 
 (‡ indicates equal contribution, † indicates corresponding author) -->
 
-## Preprints
-
-* **Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**  
-  **Baoshen Guo**, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao  
-  arXiv preprint arXiv:2507.13366, 2025  
-  \[[arXiv](https://arxiv.org/abs/2507.13366)\]
-
-* **Language Models Meet Urban Mobility: A Data-Centric Review**  
-  **Baoshen Guo**, Zhiqing Hong, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao  
-  TechRxiv, 2025  
-  \[[Paper](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)\]
-
-* **Towards Generalizable Human Activity Recognition: A Survey**  
-  Yize Cai‡, **Baoshen Guo**‡, Flora Salim, Zhiqing Hong  
-  arXiv preprint arXiv:2508.12213, 2025  
-  \[[arXiv](https://arxiv.org/abs/2508.12213)\]
-
-* **Learning from Risk: LLM-Guided Generation of Safety-Critical Scenarios with Prior Knowledge**  
-  Yuhang Wang, Heye Huang, Zhenhua Xu, Kailai Sun, **Baoshen Guo**, Jinhua Zhao  
-  arXiv preprint arXiv:2511.20726, 2025  
-  \[[arXiv](https://arxiv.org/abs/2511.20726)\]
 
 ## 2026
 
@@ -43,6 +22,30 @@ nav_order: 2
 * **Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**  
   **Baoshen Guo**, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao  
   In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026
+
+## 2025
+
+
+* **Language Models Meet Urban Mobility: A Data-Centric Review**  
+  **Baoshen Guo**, Zhiqing Hong, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao  
+  TechRxiv, 2025  
+  \[[Paper](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)\]
+
+* **Towards Generalizable Human Activity Recognition: A Survey**  
+  Yize Cai‡, **Baoshen Guo**‡, Flora Salim, Zhiqing Hong  
+  arXiv:2508.12213, 2025  
+  \[[arXiv](https://arxiv.org/abs/2508.12213)\]
+
+* **Learning from Risk: LLM-Guided Generation of Safety-Critical Scenarios with Prior Knowledge**  
+  Yuhang Wang, Heye Huang, Zhenhua Xu, Kailai Sun, **Baoshen Guo**, Jinhua Zhao  
+  arXiv:2511.20726, 2025  
+  \[[arXiv](https://arxiv.org/abs/2511.20726)\]
+
+* **Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**  
+**Baoshen Guo**, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao  
+arXiv:2507.13366, 2025  
+\[[arXiv](https://arxiv.org/abs/2507.13366)\]
+
 
 ## 2024
 
