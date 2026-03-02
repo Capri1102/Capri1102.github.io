@@ -17,7 +17,7 @@ profile:
     <p>baoshen@mit.edu</p>
 
 news: false # news is written in markdown below (no template)
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # from layout; order is: News → Personal → Selected Publications
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -54,8 +54,11 @@ You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are inter
 </ul>
 </details>
 
+
+
 <div class="personal-section" markdown="1">
-## Personal
+
+## Misc
 
 Recently, I enjoy listening to several podcasts:
 
@@ -65,4 +68,6 @@ Recently, I enjoy listening to several podcasts:
 
 I've been enjoying vibe coding since last year.
 </div>
+
+
 
