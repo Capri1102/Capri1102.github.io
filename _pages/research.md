@@ -7,7 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-<div class="personal-section" markdown="1">
+<div class="text-color-box" markdown="1">
+
 ### Research Overview
 
 My research interests are broadly in **Generative AI**, **Diffusion Models**, **Smart Cities**, and **Cyber-Physical Systems**. 

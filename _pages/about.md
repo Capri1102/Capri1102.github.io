@@ -56,9 +56,9 @@ You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are inter
 
 
 
-<div class="personal-section" markdown="1">
+<div class="text-color-box" markdown="1">
 
-## Misc
+### Misc
 
 Recently, I enjoy listening to several podcasts:
 

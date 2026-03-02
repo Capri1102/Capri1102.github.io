@@ -99,17 +99,22 @@ details.news-more ul.news-list {
   background: transparent;
 }
 
-// Personal section: light blue background (royalblue tint)
-.personal-section {
-  --personal-bg: rgba(65, 105, 225, 0.08); /* royalblue, very light */
+// Reusable tinted content box (light blue background, royalblue tint)
+.text-color-box {
+  --text-color-box-bg: rgba(65, 105, 225, 0.08); /* royalblue, very light */
   margin-top: 1.5rem;
   margin-bottom: 2rem;
   padding: 1.25rem 1.5rem;
   border-radius: 8px;
-  background-color: var(--personal-bg);
+  background-color: var(--text-color-box-bg);
+
+  h2, h3 {
+    text-align: center;
+    font-weight: bold;
+  }
 
   html[data-theme="dark"] & {
-    --personal-bg: rgba(65, 105, 225, 0.15);
+    --text-color-box-bg: rgba(65, 105, 225, 0.15);
   }
 }
 
