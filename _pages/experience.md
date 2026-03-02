@@ -44,7 +44,7 @@ nav_order: 3
 
 * **Bachelor**, 2019-09, Computer Science, Southeast University
 
-### PC or Reviewer
+### Academic Service
 
 * SIGKDD 2026
 * WWW 2026, Industrial track, Short paper track
@@ -63,24 +63,4 @@ nav_order: 3
 * ICPADS 2021 
 * Computer Communications
 
-### Useful Links 
 
-* [ccf-deadline](https://ccfddl.github.io/)
-* [Rendering math equation using TeX](https://matplotlib.org/stable/gallery/text_labels_and_annotations/tex_demo.html)
-* [time.is/Anywhere_on_Earth](https://time.is/Anywhere_on_Earth)
-* [Latex symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-<!-- * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
-* [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
-* [formula-generator](http://formula-generator.com/)
-<!-- * [Figure-color-1](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/) -->
-* [Figure-color-2](https://cmap-docs.readthedocs.io/en/latest/catalog/) -->
-
-### Enlightening blogs
-* [AI for social good.](https://yoshuabengio.org/2021/05/10/when-maximizing-individual-interests-can-make-us-all-lose-usually-some-losing-more-than-others/)
-* [Diffusion language models.](https://sander.ai/2023/01/09/diffusion-language.html)
-
-
-### Data-sets
-
-* [On-demand delivery order distrbution in Shenzhen](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106807)
-* [Beacons, couriers' reports and trajectories](https://tianchi.aliyun.com/dataset/dataDetail?dataId=76359)
