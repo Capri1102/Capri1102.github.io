@@ -32,6 +32,7 @@ My work has been recognized by the IEEE RTSS committee and the IoT Committee, an
 
 You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are interested in collaboration. **I am hiring paid research interns and visiting students (Bachelor or Master students in Singapore)** — please drop me an email if interested.
 
+
 ## News
 
 <ul class="news-list">
