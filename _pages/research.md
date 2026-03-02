@@ -11,7 +11,7 @@ nav_order: 4
 
 ### Research Overview
 
-My research interests are broadly in **Generative AI**, **Diffusion Models**, **Smart Cities**, and **Cyber-Physical Systems**. 
+My research interests are in **Generative AI**, **Diffusion Models**, **Smart Cities**, and **Cyber-Physical Systems**. 
 
 For publications, see [Publications]({{ '/publications/' | relative_url }}).
 </div>
@@ -42,6 +42,10 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 
 
 ### Enlightening blogs
+
+* [Good Writing](https://www.paulgraham.com/goodwriting.html) — Paul Graham
+* [How to Do Great Work](https://www.paulgraham.com/greatwork.html) — Paul Graham
+* [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) — Lilian Weng (Lil'Log)
 * [AI for social good.](https://yoshuabengio.org/2021/05/10/when-maximizing-individual-interests-can-make-us-all-lose-usually-some-losing-more-than-others/)
 * [Diffusion language models.](https://sander.ai/2023/01/09/diffusion-language.html)
 
