@@ -23,7 +23,6 @@ nav_order: 3
 
 * **Postdoc Associate, AI Research Scientist**, 2024-09 ~ current, M3S, SMART Centre, MIT
 
-
 * **Graduated Research Trainee**, 2023-05 ~ 2024-04, Computer Science, McGill University
 
 * **Research Intern**, 2021-04 ~ 2024-04, Data and AI Lab, JD Logistics

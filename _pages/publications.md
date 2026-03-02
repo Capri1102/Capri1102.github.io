@@ -2,14 +2,14 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: "Publications. (* Equal contribution, † Corresponding author)"
+description: "Publications. (‡ Equal contribution, † Corresponding author)"
 nav: true
 nav_order: 2
 ---
 
-# Publications
+<!-- # Publications
 
-<!-- (\* indicates equal contribution, † indicates corresponding author) -->
+(‡ indicates equal contribution, † indicates corresponding author) -->
 
 ## Preprints
 
@@ -24,7 +24,7 @@ nav_order: 2
   \[[Paper](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)\]
 
 * **Towards Generalizable Human Activity Recognition: A Survey**  
-  Yize Cai*, **Baoshen Guo***, Flora Salim, Zhiqing Hong  
+  Yize Cai‡, **Baoshen Guo**‡, Flora Salim, Zhiqing Hong  
   arXiv preprint arXiv:2508.12213, 2025  
   \[[arXiv](https://arxiv.org/abs/2508.12213)\]
 
