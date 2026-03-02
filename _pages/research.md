@@ -7,11 +7,13 @@ nav: true
 nav_order: 4
 ---
 
+<div class="personal-section" markdown="1">
 ### Research Overview
 
 My research interests are broadly in **Generative AI**, **Diffusion Models**, **Smart Cities**, and **Cyber-Physical Systems**. 
 
 For publications, see [Publications]({{ '/publications/' | relative_url }}).
+</div>
 
 <!-- * **Generative AI & Diffusion Models** — Trajectory generation, spatial-temporal modeling, and scalable generative methods.
 * **Smart Cities & Urban Mobility** — Last-mile delivery, human activity recognition, and data-driven urban systems.

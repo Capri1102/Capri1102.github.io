@@ -53,3 +53,16 @@ You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are inter
 <li><span class="news-date">[2023/05]</span> Two papers accepted by ACM SIGKDD'23.</li>
 </ul>
 </details>
+
+<div class="personal-section" markdown="1">
+## Personal
+
+Recently, I enjoy listening to several podcasts:
+
+* **Ilya Sutskever** – [We're moving from the age of scaling to the age of research](https://www.youtube.com/watch?v=aR20FWCCjAs)
+* **Andrej Karpathy** — ["We're summoning ghosts, not building animals"](https://www.youtube.com/watch?v=lXUZvyajciY)
+* **Demis Hassabis** (Co-founder and CEO of DeepMind) – [The future of intelligence](https://www.youtube.com/watch?v=PqVbypvxDto&list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj&index=1)
+
+I've been enjoying vibe coding since last year.
+</div>
+
