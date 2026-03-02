@@ -23,7 +23,8 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 ### Students I work with
 
 * **Donghang Li** — Master student, MIT
-* **Lay Ray** — Undergraduate student,SUTD
+* **Ray Lay** — Undergraduate student, SUTD
+* **Jiahao Shu** — Undergraduate student, USTC
 * **Yize Cai** — Phd student, HKUST GZ
 * **Lidan Cao** — Phd student, HKUST GZ
 * **Weibing Wang** — Incoming MIT Master
@@ -48,9 +49,5 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 * [Rendering math equation using TeX](https://matplotlib.org/stable/gallery/text_labels_and_annotations/tex_demo.html)
 * [time.is/Anywhere_on_Earth](https://time.is/Anywhere_on_Earth)
 * [Latex symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-<!-- * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
-* [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
-* [formula-generator](http://formula-generator.com/)
-<!-- * [Figure-color-1](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/) -->
-* [Figure-color-2](https://cmap-docs.readthedocs.io/en/latest/catalog/) -->
+* [Figure-color-1](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/)
 

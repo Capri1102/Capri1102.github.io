@@ -18,9 +18,9 @@ nav_order: 3
 
 * **Best Paper Candidate of RTSS, 2021**
 
-* National Doctoral Scholarship, 2023
-
 * **Best Student Paper Award of IEEE ISPA, 2023**
+
+* National Doctoral Scholarship, 2023
 
 * Southeast University Education Foundation Scholarship, 2022
 
