@@ -43,7 +43,7 @@ You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are inter
 </ul>
 
 <details class="news-more">
-<summary style="cursor: pointer; list-style: none;">▸ More news</summary>
+<summary class="news-more-summary">▸ More news</summary>
 <ul class="news-list">
 <li><span class="news-date">[2024/07]</span> Two co-authored papers accepted by ACM CIKM 2024.</li>
 <li><span class="news-date">[2024/05]</span> One paper accepted by IEEE TKDE.</li>
