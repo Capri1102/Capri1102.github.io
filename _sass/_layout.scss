@@ -38,7 +38,14 @@ body.sticky-bottom-footer {
   }
 }
 
-// News list (about page): hanging indent like limanling.github.io
+// News list (about page): hanging indent + monospace date for alignment
+span.news-date {
+  font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace;
+  display: inline-block;
+  min-width: 7.5em; /* [2026/02] same width so text aligns */
+  margin-right: 0.35em;
+}
+
 ul.news-list {
   list-style-position: outside;
   padding-left: 1.5em;

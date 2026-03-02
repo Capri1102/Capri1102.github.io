@@ -35,20 +35,20 @@ You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are inter
 ## News
 
 <ul class="news-list">
-<li>[2026/02] One paper about Urban-scale POI Updating is accepted by IEEE TMC.</li>
-<li>[2025/12] Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></li>
-<li>[2025/11] Two papers accepted by ACM KDD 2026.</li>
-<li>[2025/05] Our Cascaded diffusion model based trajectory generation paper is online.</li>
-<li>[2024/09] I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program.</li>
+<li><span class="news-date">[2026/02]</span> One paper about Urban-scale POI Updating is accepted by IEEE TMC.</li>
+<li><span class="news-date">[2025/12]</span> Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></li>
+<li><span class="news-date">[2025/11]</span> Two papers accepted by ACM KDD 2026.</li>
+<li><span class="news-date">[2025/05]</span> Our Cascaded diffusion model based trajectory generation paper is online.</li>
+<li><span class="news-date">[2024/09]</span> I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program.</li>
 </ul>
 
 <details class="news-more">
 <summary style="cursor: pointer; list-style: none;">▸ More news</summary>
 <ul class="news-list">
-<li>[2024/07] Two co-authored papers accepted by ACM CIKM 2024.</li>
-<li>[2024/05] One paper accepted by IEEE TKDE.</li>
-<li>[2024/05] One paper accepted by ACM SIGKDD'24.</li>
-<li>[2023/12] One paper accepted by IEEE Transactions on Mobile Computing.</li>
-<li>[2023/05] Two papers accepted by ACM SIGKDD'23.</li>
+<li><span class="news-date">[2024/07]</span> Two co-authored papers accepted by ACM CIKM 2024.</li>
+<li><span class="news-date">[2024/05]</span> One paper accepted by IEEE TKDE.</li>
+<li><span class="news-date">[2024/05]</span> One paper accepted by ACM SIGKDD'24.</li>
+<li><span class="news-date">[2023/12]</span> One paper accepted by IEEE Transactions on Mobile Computing.</li>
+<li><span class="news-date">[2023/05]</span> Two papers accepted by ACM SIGKDD'23.</li>
 </ul>
 </details>
