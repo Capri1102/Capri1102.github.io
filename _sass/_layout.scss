@@ -38,6 +38,22 @@ body.sticky-bottom-footer {
   }
 }
 
+// News list (about page): hanging indent like limanling.github.io
+ul.news-list {
+  list-style-position: outside;
+  padding-left: 1.5em;
+  margin-bottom: 0;
+
+  li {
+    margin-bottom: 0.5em;
+    padding-left: 0.25em;
+  }
+}
+
+details.news-more ul.news-list {
+  margin-top: 0.5em;
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************

@@ -11,7 +11,7 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle | newline_to_br }}</p>
+    <div class="desc">{{ page.subtitle | markdownify }}</div>
   </header>
 
   <article>
