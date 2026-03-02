@@ -2,7 +2,7 @@
 layout: page
 permalink: /experience/
 title: Experience
-description: 
+description: "Awards, Education, and Working Experiences"
 nav: true
 nav_order: 3
 ---
