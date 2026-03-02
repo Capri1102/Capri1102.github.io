@@ -2,7 +2,7 @@
 layout: page
 permalink: /experience/
 title: Experience
-description: Awards, working experiences, education, and service.
+description: 
 nav: true
 nav_order: 3
 ---
@@ -11,12 +11,19 @@ nav_order: 3
 ### Awards
 
 * **Outstanding Paper Award of RTSS, 2021 (CCF-A)**
+
 * **Best Student Paper Award of ICA3PP, 2023**
+
 * **Distinguish Paper Award** for WePos, IoT Committee of Chinese Institute of Electronics, 2023.
+
 * **Best Paper Candidate of RTSS, 2021**
+
 * National Doctoral Scholarship, 2023
+
 * **Best Student Paper Award of IEEE ISPA, 2023**
+
 * Southeast University Education Foundation Scholarship, 2022
+
 * Outstanding Thesis Award, Southeast University, 2019
 
 ### Working Experiences
@@ -30,6 +37,7 @@ nav_order: 3
 * **Research Intern**, 2020-08 ~ 2021-04, Eleme AI Lab, Alibaba Group
 
 ### Education Experiences
+
 * **Ph.D.**, 2024-09, Computer Science, Southeast University
 
 * **Master**, 2020-09, Computer Science, Southeast University
@@ -61,11 +69,11 @@ nav_order: 3
 * [Rendering math equation using TeX](https://matplotlib.org/stable/gallery/text_labels_and_annotations/tex_demo.html)
 * [time.is/Anywhere_on_Earth](https://time.is/Anywhere_on_Earth)
 * [Latex symbols 1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-* [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
+<!-- * [Latex symbols 2](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols) 
 * [Latex best practices](https://www.acm.org/publications/taps/latex-best-practices)
 * [formula-generator](http://formula-generator.com/)
-* [Figure-color-1](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/)
-* [Figure-color-2](https://cmap-docs.readthedocs.io/en/latest/catalog/)
+<!-- * [Figure-color-1](https://htmlcolorcodes.com/color-chart/flat-design-color-chart/) -->
+* [Figure-color-2](https://cmap-docs.readthedocs.io/en/latest/catalog/) -->
 
 ### Enlightening blogs
 * [AI for social good.](https://yoshuabengio.org/2021/05/10/when-maximizing-individual-interests-can-make-us-all-lose-usually-some-losing-more-than-others/)
