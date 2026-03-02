@@ -2,14 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Singapore-MIT Alliance for Research and Technology, Massachusetts Institute of Technology</a>.
+# Personal intro (Ling Pan style: name + position + affiliation + email at top)
+position: Postdoc Associate
+affiliation: Singapore-MIT Alliance for Research and Technology, Massachusetts Institute of Technology
+# Leave subtitle blank; affiliation is used in the intro block instead
+subtitle:
 
 profile:
-  align: right
+  align: left
   image: IMG_2968.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Postdoc Associate, SMART Singapore</p>
+  image_circular: true
 
 news: true # content from _data/news.yml (first 6 shown, rest under "▸ More news")
 selected_papers: true # includes a list of papers marked as "selected={true}"

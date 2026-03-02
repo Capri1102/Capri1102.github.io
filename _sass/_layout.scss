@@ -38,6 +38,54 @@ body.sticky-bottom-footer {
   }
 }
 
+// About page: Ling Pan style — circular avatar left + intro block
+.about-header {
+  margin-bottom: 1.5rem;
+
+  .profile-about {
+    width: auto;
+    max-width: 180px;
+    margin-right: 1.5rem;
+    margin-bottom: 0.5rem;
+
+    img {
+      width: 100%;
+      max-width: 180px;
+    }
+  }
+
+  .about-intro {
+    overflow: hidden;
+
+    .about-name {
+      margin-bottom: 0.25rem;
+    }
+
+    .about-position,
+    .about-affiliation,
+    .about-email {
+      margin-bottom: 0.2rem;
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+
+    .about-email {
+      font-family: monospace;
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  .about-header .profile-about {
+    max-width: 120px;
+    margin-right: 1rem;
+
+    img {
+      max-width: 120px;
+    }
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
