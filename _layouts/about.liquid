@@ -2,10 +2,21 @@
 layout: default
 ---
 <div class="post">
-  <!-- Ling Pan style: circular avatar left + personal intro (name, position, affiliation, email) -->
-  <header class="about-header">
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if site.title == 'blank' %}
+        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+        {{ site.last_name }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </h1>
+    <p class="desc">{{ page.subtitle }}</p>
+  </header>
+
+  <article>
     {% if page.profile %}
-      <div class="profile profile-about float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
@@ -16,30 +27,12 @@ layout: default
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.2}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
           {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image cache_bust=true %}
         {% endif %}
+        {% if page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% endif %}
       </div>
     {% endif %}
-    <div class="about-intro">
-      <h1 class="post-title about-name">
-        {% if site.title == 'blank' %}
-          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}
-        {% else %}
-          {{ site.title }}
-        {% endif %}
-      </h1>
-      {% if page.position %}
-        <p class="about-position">{{ page.position }}</p>
-      {% endif %}
-      {% if page.affiliation or page.subtitle %}
-        <p class="about-affiliation">{% if page.affiliation %}{{ page.affiliation }}{% else %}{{ page.subtitle }}{% endif %}</p>
-      {% endif %}
-      {% if site.email %}
-        <p class="about-email">Email: {{ site.email | replace: '@', ' [@] ' | replace: '.', ' [DOT] ' }}</p>
-      {% endif %}
-    </div>
-    <div class="clearfix"></div>
-  </header>
 
-  <article>
     <div class="clearfix">{{ content }}</div>
 
     <!-- News (from _data/news.yml only; edit that file to update) -->
