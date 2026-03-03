@@ -23,6 +23,7 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 
 ### Invited Talk & Presentation
 
+<div class="talk-list-wrapper">
 <ul class="news-list talk-list">
 <li><span class="news-date">[2026/01]</span> Presentation at M3S seminar, SMART, MIT on Generative AI for Urban Mobility: From Physical Trajectory Synthesis to Mental Agentic Simulation.</li>
 <li><span class="news-date">[2025/05]</span> Presentation at SRB seminar, JTL Lab, MIT on Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion.</li>
@@ -30,9 +31,10 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 <li><span class="news-date">[2024/05]</span> Presentation at M3S, MIT on Multi-agent RL-based Decision-making for physical delivery systems.</li>
 <li><span class="news-date">[2023/08]</span> Oral Talk at KDD 2023 on Data-driven equitable assignment optimization.</li>
 <li><span class="news-date">[2023/03]</span> Presentation at CPS Lab, Mcgill University on Multi-agent Reinforcement Learning for physical on-demand delivery systems.</li>
-<li><span class="news-date">[2022/1]</span> Oral Talk at IMWUT 2022 on Weak-supervised indoor positioning with unlabeled wifi for on-demand delivery.</li>
+<li><span class="news-date">[2022/01]</span> Oral Talk at IMWUT 2022 on Weak-supervised indoor positioning with unlabeled wifi for on-demand delivery.</li>
 <li><span class="news-date">[2021/11]</span> Oral Talk at RTSS 2021 on reinforcement learning-based large-scale on-demand order dispatching for Outstanding Paper Award.</li>
 </ul>
+</div>
 
 ### Students I work with
 

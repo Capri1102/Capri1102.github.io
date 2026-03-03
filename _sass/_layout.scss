@@ -99,24 +99,37 @@ details.news-more ul.news-list {
   background: transparent;
 }
 
-// Talk list (research page): one line per item, horizontal scroll, tighter date gap, more space below
-ul.news-list.talk-list {
+// Talk list (research page): whole box scrolls horizontally, one line per item, minimal spacing, bordered
+.talk-list-wrapper {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  overflow-x: auto;
   margin-bottom: 2rem;
+  padding: 0.5rem 0.75rem;
+  -webkit-overflow-scrolling: touch;
+
+  &::-webkit-scrollbar {
+    height: 6px;
+  }
+}
+
+ul.news-list.talk-list {
+  margin: 0;
+  width: max-content;
+  min-width: 100%;
 
   li {
     white-space: nowrap;
-    overflow-x: auto;
-    overflow-y: hidden;
+    margin-bottom: 0.2em;
     padding-right: 0.5rem;
-    -webkit-overflow-scrolling: touch;
 
-    &::-webkit-scrollbar {
-      height: 4px;
+    &:last-child {
+      margin-bottom: 0;
     }
   }
 
   .news-date {
-    margin-right: 0.15em;
+    margin-right: 0;
   }
 }
 
