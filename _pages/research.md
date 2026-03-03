@@ -24,8 +24,8 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 ### Invited Talk & Presentation
 
 <ul class="news-list">
-<li><span class="news-date">[2026/01]</span> Presentation at M3S seminor, SMART on Generative AI for Urban Mobility: From Physical Trajectory Synthesis to Mental Agentic Simulation.</li>
-<li><span class="news-date">[2025/05]</span> Presentation at SRB seminor, MIT on Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion.</li>
+<li><span class="news-date">[2026/01]</span> Presentation at M3S seminar, SMART, MIT on Generative AI for Urban Mobility: From Physical Trajectory Synthesis to Mental Agentic Simulation.</li>
+<li><span class="news-date">[2025/05]</span> Presentation at SRB seminar, JTL Lab, MIT on Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion.</li>
 <li><span class="news-date">[2024/08]</span> Oral Talk at KDD 2024 on Multi-task Conditional Recommendation for our accepted paper</li>
 <li><span class="news-date">[2024/05]</span> Presentation at M3S, MIT on Multi-agent RL-based Decision-making for physical delivery systems.</li>
 <li><span class="news-date">[2023/08]</span> Oral Talk at KDD 2023 on Data-driven equitable assignment optimization.</li>
