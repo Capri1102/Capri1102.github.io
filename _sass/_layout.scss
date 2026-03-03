@@ -99,6 +99,27 @@ details.news-more ul.news-list {
   background: transparent;
 }
 
+// Talk list (research page): one line per item, horizontal scroll, tighter date gap, more space below
+ul.news-list.talk-list {
+  margin-bottom: 2rem;
+
+  li {
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-right: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+
+    &::-webkit-scrollbar {
+      height: 4px;
+    }
+  }
+
+  .news-date {
+    margin-right: 0.15em;
+  }
+}
+
 // Reusable tinted content box (light blue background, royalblue tint)
 .text-color-box {
   --text-color-box-bg: rgba(65, 105, 225, 0.08); /* royalblue, very light */
