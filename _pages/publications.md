@@ -14,14 +14,21 @@ nav_order: 2
 
 ## 2026
 
+* **Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**  
+  **Baoshen Guo**, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao  
+  In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026  
+\[[arXiv](https://arxiv.org/abs/2507.13366)\]\[[Code](https://github.com/urban-mobility-generation/Cardiff)\]
+
 * **GenHAR: Generalizing Cross-domain Human Activity Recognition for Last-mile Delivery**  
   Zhiqing Hong, Zelong Li, Xiubin Fan, Guang Yang, **Baoshen Guo**†, Haotian Wang, Tian He, Desheng Zhang  
   In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026  
   († Corresponding author)
 
-* **Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**  
-  **Baoshen Guo**, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao  
-  In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026
+
+* **UrbanPOI: Updating Urban POIs with Large-scale Crowdsourcing for Location-based Services**  
+  Zhiqing Hong, **Baoshen Guo**, Wenjun Lyu, Haotian Wang, Yunhuai Liu, Guang Wang, Tian He, Desheng Zhang  
+  IEEE Transactions on Mobile Computing (**TMC**), 2026  
+  \[[DOI](https://doi.org/10.1109/TMC.2026.3670149)\]
 
 ## 2025
 
@@ -29,12 +36,12 @@ nav_order: 2
 * **Language Models Meet Urban Mobility: A Data-Centric Review**  
   **Baoshen Guo**, Zhiqing Hong, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao  
   TechRxiv, 2025  
-  \[[Paper](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)\]
+  \[[Paper](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)\]\[[Code](https://github.com/urban-mobility-generation/Language-Modeling-for-Urban-Mobility)\]
 
 * **Towards Generalizable Human Activity Recognition: A Survey**  
   Yize Cai‡, **Baoshen Guo**‡, Flora Salim, Zhiqing Hong  
   arXiv:2508.12213, 2025  
-  \[[arXiv](https://arxiv.org/abs/2508.12213)\]
+  \[[arXiv](https://arxiv.org/abs/2508.12213)\]\[[Code](https://github.com/rh20624/Awesome-IMU-Sensing)\]
 
 * **Learning from Risk: LLM-Guided Generation of Safety-Critical Scenarios with Prior Knowledge**  
   Yuhang Wang, Heye Huang, Zhenhua Xu, Kailai Sun, **Baoshen Guo**, Jinhua Zhao  
@@ -44,7 +51,7 @@ nav_order: 2
 * **Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion**  
 **Baoshen Guo**, Zhiqing Hong, Junyi Li, Shenhao Wang, Jinhua Zhao  
 arXiv:2507.13366, 2025  
-\[[arXiv](https://arxiv.org/abs/2507.13366)\]
+\[[arXiv](https://arxiv.org/abs/2507.13366)\]\[[Code](https://github.com/urban-mobility-generation/Cardiff)\]
 
 
 ## 2024
@@ -103,7 +110,8 @@ arXiv:2507.13366, 2025
 
 * **Wepos: Weak-supervised indoor positioning with unlabeled wifi for on-demand delivery**  
   **Baoshen Guo**, Weijian Zuo, Shuai Wang, Wenjun Lyu, Zhiqing Hong, Yi Ding, Tian He, Desheng Zhang  
-  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2022
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2022   
+  \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3534574)\]
 
 * **O2-SiteRec: Store Site Recommendation under the O2O Model via Multi-graph Attention Networks**  
   Hua Yan, Shuai Wang, Yu Yang, **Baoshen Guo**, Tian He, Desheng Zhang  
