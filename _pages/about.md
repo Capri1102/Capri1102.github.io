@@ -63,18 +63,7 @@ I am hiring **paid research interns (1–2)** and **visiting students (1–2)** 
 
 
 
-<div class="text-color-box" markdown="1">
 
-### Misc
-
-Recently, I enjoy listening to several podcasts:
-
-* **Ilya Sutskever** – [We're moving from the age of scaling to the age of research](https://www.youtube.com/watch?v=aR20FWCCjAs)
-* **Andrej Karpathy** — ["We're summoning ghosts, not building animals"](https://www.youtube.com/watch?v=lXUZvyajciY)
-* **Demis Hassabis** (Co-founder and CEO of DeepMind) – [The future of intelligence](https://www.youtube.com/watch?v=PqVbypvxDto&list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj&index=1)
-
-I've been enjoying vibe coding since last year.
-</div>
 
 
 
