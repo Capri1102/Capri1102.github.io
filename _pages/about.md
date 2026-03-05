@@ -30,8 +30,15 @@ I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/)
 My research interests are broadly in the areas of Generative AI, Diffusion Model, Smart Cities, and Cyber-Physical Systems.
 My work has been recognized by the IEEE RTSS committee and the IoT Committee, and was awarded the **Outstanding Paper Award of RTSS, 2021 (CCF-A)** and the Distinguish Paper Award of the IoT Committee, Chinese Institute of Electronics. I was also awarded the Best Student Paper Award of ICA3PP and the Best Paper Candidate of RTSS.
 
-You can contact me at [baoshen@mit.edu](mailto:baoshen@mit.edu) if you are interested in collaboration. **I am hiring paid research interns and visiting students (Bachelor or Master students in Singapore)** — please drop me an email if interested.
+<div class="text-color-box" markdown="1">
+### Opening
 
+**MIT–UF–NEU 2026 Joint Summer Research Camp**  
+I am involved in mentoring the MIT–UF–NEU 2026 Joint Summer Research Camp. See the [detailed announcement](https://mobility.mit.edu/openings/) for more information.
+
+**Research internship (SMART Centre, MIT, Singapore)**  
+I am hiring **paid research interns (1–2)** and **visiting students (1–2)** (Bachelor or Master students in Singapore). Please see the [job description](https://portal.smart.mit.edu/careers/career-opportunities/job-application?job=650&job_cat=Student%20Job) and submit your application. If you apply, please drop me an email at [baoshen@mit.edu](mailto:baoshen@mit.edu) so we can speed up the process.
+</div>
 
 ## News
 
