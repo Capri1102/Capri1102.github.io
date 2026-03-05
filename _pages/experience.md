@@ -59,21 +59,21 @@ I've been enjoying vibe coding since last year.
 
 ### Academic Service
 
-* SIGKDD 2026
-* WWW 2026, Industrial track, Short paper track
-* AAAI 2026
-* SIGKDD 2025
-* AAAI 2025
-* WWW 2025
-* SIGKDD 2024 ADS track
-* AAAI 2024
-* WWW 2024 Research track, Industrial track
-* SIGKDD 2023 ADS track
-* IMWUT 2022, 2023, 2024, 2025
-* IEEE TOSN 2023, 2024, 2025
+* ACM SIGKDD 2026
+* ACM SIGKDD ADS track, 2023, 2024, 2025, 2026
+* ACM WWW Industrial track, Short paper track, 2024, 2025, 2026
+* ACM WWW Research track, 2024
+* AAAI 2024, 2025, 2026
+* ACM IMWUT 2022, 2023, 2024, 2025, 2026
+* ACM Transactions on Sensor Networks
 * IEEE/ACM Transactions on Networking
+* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Network Science and Engineering
+* ACM Transactions on Internet of Things
+* Expert Systems With Applications
+* Computer Communications
 * IOT Journal
 * ICPADS 2021 
-* Computer Communications
+
 
 
