@@ -86,7 +86,7 @@ arXiv:2507.13366, 2025
 * **Attention Enhanced Package Pick-Up Time Prediction via Heterogeneous Behavior Modeling**  
   **Baoshen Guo**, Weijian Zuo, Shuai Wang, Xiaolei Zhou, Tian He  
   International Conference on Algorithms and Architectures for Parallel Processing (**ICA3PP**), 2023  
-  \[[PDF](https://link.springer.com/chapter/10.1007/978-981-97-0862-8_12)\]
+  \[[PDF](https://link.springer.com/chapter/10.1007/978-981-97-0862-8_12)\] <span style="color:rgb(207, 69, 31)">Best Student Paper Award</span>
 
 * **Cross-region courier displacement for on-demand delivery with multi-agent reinforcement learning**  
   Shuai Wang, Shijie Hu, **Baoshen Guo**†, Guang Wang  
@@ -111,7 +111,7 @@ arXiv:2507.13366, 2025
 * **Wepos: Weak-supervised indoor positioning with unlabeled wifi for on-demand delivery**  
   **Baoshen Guo**, Weijian Zuo, Shuai Wang, Wenjun Lyu, Zhiqing Hong, Yi Ding, Tian He, Desheng Zhang  
   Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2022   
-  \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3534574)\]
+  \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3534574)\]\[[Code](https://github.com/seanguo61/WEPOS)\] <span style="color:rgb(207, 69, 31)">Distinguish Paper Award</span> from IoT Committee, Chinese Institute of Electronics
 
 * **O2-SiteRec: Store Site Recommendation under the O2O Model via Multi-graph Attention Networks**  
   Hua Yan, Shuai Wang, Yu Yang, **Baoshen Guo**, Tian He, Desheng Zhang  
@@ -141,7 +141,8 @@ arXiv:2507.13366, 2025
 
 * **Concurrent order dispatch for instant delivery with time-constrained actor-critic reinforcement learning**  
   **Baoshen Guo**, Shuai Wang, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He  
-  IEEE Real-Time Systems Symposium (**RTSS**), 2021
+  IEEE Real-Time Systems Symposium (**RTSS**), 2021  
+  <span style="color:rgb(207, 69, 31)">Outstanding Paper Award, Best Paper Candidate</span>
 
 * **A City-Wide Crowdsourcing Delivery System with Reinforcement Learning**  
   Yi Ding, **Baoshen Guo**, Lin Zheng, Mingming Lu, Desheng Zhang, Shuai Wang, Sang Hyuk Son, Tian He  
