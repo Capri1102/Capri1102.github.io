@@ -20,7 +20,7 @@ nav_order: 3
 
 * **Best Student Paper Award of IEEE ISPA, 2023**
 
- **KDD Travel Grant Award, 2023**
+* **KDD Travel Grant Award, 2023**
 
 * National Doctoral Scholarship, 2023
 
