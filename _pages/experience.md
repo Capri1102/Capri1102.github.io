@@ -10,7 +10,7 @@ nav_order: 3
 
 ### Awards
 
-* **Outstanding Paper Award of IEEE RTSS, 2021 (CCF-A)** [Award](https://ieeexplore.ieee.org/abstract/document/9622333) [Certificate]({{ '/assets/img/rtss21-guo.jpg' | relative_url }})
+* **Outstanding Paper Award of IEEE RTSS, 2021 (CCF-A)** ([Award](https://ieeexplore.ieee.org/abstract/document/9622333) · [Certificate]({{ '/assets/img/rtss21-guo.jpg' | relative_url }}))
 
 * **Best Student Paper Award of ICA3PP, 2023**
 
