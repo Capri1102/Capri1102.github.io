@@ -22,7 +22,7 @@ nav_order: 2
 * **GenHAR: Generalizing Cross-domain Human Activity Recognition for Last-mile Delivery**  
   Zhiqing Hong, Zelong Li, Xiubin Fan, Guang Yang, **Baoshen Guo**†, Haotian Wang, Tian He, Desheng Zhang  
   In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026  
-  († Corresponding author)
+  († **Corresponding author**)
 
 
 * **UrbanPOI: Updating Urban POIs with Large-scale Crowdsourcing for Location-based Services**  
@@ -34,7 +34,7 @@ nav_order: 2
 
 
 * **Language Models Meet Urban Mobility: A Data-Centric Review**  
-  **Baoshen Guo**, Zhiqing Hong, Lidan Cao, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao  
+  **Baoshen Guo**‡, Zhiqing Hong‡, Lidan Cao‡, Donghang Li, Junyi Li, Can Rong, Alok Prakash, Shenhao Wang, Jinhua Zhao  
   TechRxiv, 2025  
   \[[Paper](http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1)\]\[[Code](https://github.com/urban-mobility-generation/Language-Modeling-for-Urban-Mobility)\]
 
@@ -57,7 +57,7 @@ arXiv:2507.13366, 2025
 ## 2024
 
 * **Multi-task Conditional Attention Network for Conversion Prediction in Logistics Advertising**  
-  **Baoshen Guo**, Xining Song, Shuai Wang, Wei Gong, Tian He, Xue Liu  
+  **Baoshen Guo**‡, Xining Song‡, Shuai Wang, Wei Gong, Tian He, Xue Liu  
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
 
 * **CourIRL: Predicting Couriers' Behavior in Last-Mile Delivery Using Crossed-Attention Inverse Reinforcement Learning**  
@@ -91,7 +91,7 @@ arXiv:2507.13366, 2025
 * **Cross-region courier displacement for on-demand delivery with multi-agent reinforcement learning**  
   Shuai Wang, Shijie Hu, **Baoshen Guo**†, Guang Wang  
   IEEE Transactions on Big Data (**TBD**), 2023  
-  († Corresponding author)
+  († **Corresponding author**)
 
 * **FairCod: A Fairness-aware Concurrent Dispatch System for Large-scale Instant Delivery Services**  
   Lin Jiang, Shuai Wang, **Baoshen Guo**, Hai Wang, Desheng Zhang, Guang Wang  
@@ -100,7 +100,7 @@ arXiv:2507.13366, 2025
 * **Time-Constrained Actor-Critic Reinforcement Learning for Concurrent Order Dispatch in On-demand Delivery**  
   Shuai Wang, **Baoshen Guo**†, Yi Ding, Guang Wang, Suining He, Desheng Zhang, Tian He  
   IEEE Transactions on Mobile Computing (**TMC**), 2023  
-  († Corresponding author)
+  († **Corresponding author**)
 
 * **TGT: Churn Prediction in O2O Logistics with Two-tower Gated Transformer**  
   **Baoshen Guo**, Hai Wang, Hao Liu, Wei Gong, Wei Xi, Xiaolei Zhou, Shuai Wang  
