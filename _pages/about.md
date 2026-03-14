@@ -33,8 +33,8 @@ My works have been recognized by the IEEE Real-Time Systems Committee with the *
 <div class="text-color-box" markdown="1">
 ### Opening
 
-**MIT–UF–NEU 2026 Joint Summer Research Camp**  
-I am involved in mentoring the MIT–UF–NEU 2026 Joint Summer Research Camp. See the [detailed announcement](https://mobility.mit.edu/openings/) for more information.
+<!-- **MIT–UF–NEU 2026 Joint Summer Research Camp**  
+I am involved in mentoring the MIT–UF–NEU 2026 Joint Summer Research Camp. See the [detailed announcement](https://mobility.mit.edu/openings/) for more information. -->
 
 **Research internship (SMART Centre, MIT, Singapore)**  
 I am hiring **paid research interns (1–2)** and **visiting students (1–2)** (Bachelor or Master students in Singapore). Please see the [job description](https://portal.smart.mit.edu/careers/career-opportunities/job-application?job=650&job_cat=Student%20Job) and submit your application. If you apply, please drop me an email at [baoshen@mit.edu](mailto:baoshen@mit.edu) so we can speed up the process.
