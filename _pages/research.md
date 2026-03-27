@@ -40,10 +40,10 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 
 * **Donghang Li** — Master student, MIT
 * **Ray Lay** — Undergraduate student, SUTD
-* **Jiahao Shu** — Undergraduate student, USTC
+* **Jiahao Shu** — Undergraduate student, USTC; Incoming M.S. student, CMU
 * **Yize Cai** — Phd student, HKUST GZ
 * **Lidan Cao** — Phd student, HKUST GZ
-* **Weibing Wang** — Incoming MIT Master
+* **Weibing Wang** — Incoming M.S. student, MIT
 
 
 
