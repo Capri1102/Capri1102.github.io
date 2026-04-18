@@ -30,6 +30,11 @@ nav_order: 2
   IEEE Transactions on Mobile Computing (**TMC**), 2026  
   \[[DOI](https://doi.org/10.1109/TMC.2026.3670149)\]
 
+* **Wearable AI in the Era of Large Sensor Models**  
+  Yize Cai, **Baoshen Guo**, Guobin Shen, Zhiqing Hong  
+  arXiv:2604.10172, 2026  
+  \[[arXiv](https://arxiv.org/abs/2604.10172)\] 
+
 ## 2025
 
 

@@ -33,8 +33,6 @@ My works have been recognized by the IEEE Real-Time Systems Committee with the *
 <div class="text-color-box" markdown="1">
 ### Opening
 
-<!-- **MIT–UF–NEU 2026 Joint Summer Research Camp**  
-I am involved in mentoring the MIT–UF–NEU 2026 Joint Summer Research Camp. See the [detailed announcement](https://mobility.mit.edu/openings/) for more information. -->
 
 **Research internship (SMART Centre, MIT, Singapore)**  
 I am hiring **paid research interns (1–2)** and **visiting students (1–2)** (Bachelor or Master students in Singapore). Please see the [job description](https://portal.smart.mit.edu/careers/career-opportunities/job-application?job=650&job_cat=Student%20Job) and submit your application. If you apply, please drop me an email at [baoshen@mit.edu](mailto:baoshen@mit.edu) so we can speed up the process.
@@ -43,6 +41,7 @@ I am hiring **paid research interns (1–2)** and **visiting students (1–2)** 
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">[2026/04]</span> New preprint online: <a href="https://arxiv.org/abs/2604.10172">Wearable AI in the Era of Large Sensor Models</a>.</li>
 <li><span class="news-date">[2026/02]</span> One paper about Urban-scale POI Updating is accepted by IEEE TMC.</li>
 <li><span class="news-date">[2025/12]</span> Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></li>
 <li><span class="news-date">[2025/11]</span> Two papers accepted by ACM KDD 2026.</li>
