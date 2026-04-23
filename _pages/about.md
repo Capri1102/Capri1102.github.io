@@ -36,6 +36,9 @@ My works have been recognized by the IEEE Real-Time Systems Committee with the *
 
 **Research internship (SMART Centre, MIT, Singapore)**  
 I am hiring **paid research interns (1–2)** and **visiting students (1–2)** (Bachelor or Master students in Singapore). Please see the [job description](https://portal.smart.mit.edu/careers/career-opportunities/job-application?job=650&job_cat=Student%20Job) and submit your application. If you apply, please drop me an email at [baoshen@mit.edu](mailto:baoshen@mit.edu) so we can speed up the process.
+
+**Remote research intern / collaboration**  
+I am also continuously hiring remote research interns and open to various forms of collaboration. You will have opportunities to collaborate with researchers and students from MIT, NUS, and HKUST (GZ). Please drop me an email at [baoshen@mit.edu](mailto:baoshen@mit.edu).
 </div>
 
 ## News
