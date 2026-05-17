@@ -24,8 +24,8 @@ social: true # includes social icons at the bottom of the page
 I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT), work with Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) and Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/). 
 I am involved in [M3S](https://m3s.mit.edu/), part of MIT' [SMART](https://smart.mit.edu/) program.
 
-I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/).
-Previously, I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en). 
+I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/)(Fellow of CAE, IEEE).
+Previously, I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en)(Fellow of ACM,IEEE,AAAS). 
 I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research. 
 My research interests are broadly in the areas of Generative AI, Diffusion Model, Smart Cities, and Cyber-Physical Systems.
 My works have been recognized by the IEEE Real-Time Systems Committee with the **Outstanding Paper Award of RTSS, 2021 (CCF-A)** and the Distinguish Paper Award of the IoT Committee, Chinese Institute of Electronics. I was also awarded the Best Student Paper Award of ICA3PP and the Best Paper Candidate of RTSS. 
@@ -44,6 +44,8 @@ I am also continuously hiring remote research interns and open to various forms 
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">[2026/05]</span> Winner of the <a href="https://www.pal2sim.com/">CPS-IoT Week Pal2Sim competition</a>.</li>
+<li><span class="news-date">[2026/05]</span> One co-authored paper accepted by ACM KDD 2026 AI4S track.</li>
 <li><span class="news-date">[2026/04]</span> New preprint online: <a href="https://arxiv.org/abs/2604.10172">Wearable AI in the Era of Large Sensor Models</a>.</li>
 <li><span class="news-date">[2026/02]</span> One paper about Urban-scale POI Updating is accepted by IEEE TMC.</li>
 <li><span class="news-date">[2025/12]</span> Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></li>
