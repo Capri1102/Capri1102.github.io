@@ -38,11 +38,14 @@ body.sticky-bottom-footer {
   }
 }
 
-// News list (about page): hanging indent + monospace date for alignment
+// News list (about page): date column + body column; wrap stays in body column
 span.news-date {
   font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace;
-  flex: 0 0 9ch; /* fixed date column; body text wraps in the flex item beside it */
-  min-width: 9ch;
+  white-space: nowrap;
+}
+
+span.news-body {
+  min-width: 0;
 }
 
 ul.news-list {
@@ -51,11 +54,15 @@ ul.news-list {
   margin-bottom: 0;
 
   li {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.35em;
     margin-bottom: 0.5em;
     padding-left: 0.25em;
+  }
+
+  &:not(.talk-list) li {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 1fr);
+    column-gap: 0.35em;
+    align-items: start;
   }
 }
 

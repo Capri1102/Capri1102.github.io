@@ -44,25 +44,25 @@ I am also continuously hiring remote research interns and open to various forms 
 ## News
 
 <ul class="news-list">
-<li><span class="news-date">[2026/05]</span> One interesting co-authored paper on bias in LLM career recommendations accepted by IEEE Intelligent Systems.</li>
-<li><span class="news-date">[2026/05]</span> Winner of the <a href="https://www.pal2sim.com/">CPS-IoT Week Pal2Sim competition</a>.</li>
-<li><span class="news-date">[2026/05]</span> One co-authored paper accepted by ACM KDD 2026 AI4S track.</li>
-<li><span class="news-date">[2026/04]</span> New preprint online: <a href="https://arxiv.org/abs/2604.10172">Wearable AI in the Era of Large Sensor Models</a>.</li>
-<li><span class="news-date">[2026/02]</span> One paper about Urban-scale POI Updating is accepted by IEEE TMC.</li>
-<li><span class="news-date">[2025/12]</span> Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></li>
-<li><span class="news-date">[2025/11]</span> Two papers accepted by ACM KDD 2026.</li>
-<li><span class="news-date">[2025/05]</span> Our Cascaded diffusion model based trajectory generation paper is online.</li>
+<li><span class="news-date">[2026/05]</span><span class="news-body">One interesting co-authored paper on bias in LLM career recommendations accepted by IEEE Intelligent Systems.</span></li>
+<li><span class="news-date">[2026/05]</span><span class="news-body">Winner of the <a href="https://www.pal2sim.com/">CPS-IoT Week Pal2Sim competition</a>.</span></li>
+<li><span class="news-date">[2026/05]</span><span class="news-body">One co-authored paper accepted by ACM KDD 2026 AI4S track.</span></li>
+<li><span class="news-date">[2026/04]</span><span class="news-body">New preprint online: <a href="https://arxiv.org/abs/2604.10172">Wearable AI in the Era of Large Sensor Models</a>.</span></li>
+<li><span class="news-date">[2026/02]</span><span class="news-body">One paper about Urban-scale POI Updating is accepted by IEEE TMC.</span></li>
+<li><span class="news-date">[2025/12]</span><span class="news-body">Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></span></li>
+<li><span class="news-date">[2025/11]</span><span class="news-body">Two papers accepted by ACM KDD 2026.</span></li>
+<li><span class="news-date">[2025/05]</span><span class="news-body">Our Cascaded diffusion model based trajectory generation paper is online.</span></li>
 </ul>
 
 <details class="news-more">
 <summary class="news-more-summary">▸ More news</summary>
 <ul class="news-list">
-<li><span class="news-date">[2024/09]</span> I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program.</li>
-<li><span class="news-date">[2024/07]</span> Two co-authored papers accepted by ACM CIKM 2024.</li>
-<li><span class="news-date">[2024/05]</span> One paper accepted by IEEE TKDE.</li>
-<li><span class="news-date">[2024/05]</span> One paper accepted by ACM SIGKDD'24.</li>
-<li><span class="news-date">[2023/12]</span> One paper accepted by IEEE Transactions on Mobile Computing.</li>
-<li><span class="news-date">[2023/05]</span> Two papers accepted by ACM SIGKDD'23.</li>
+<li><span class="news-date">[2024/09]</span><span class="news-body">I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program.</span></li>
+<li><span class="news-date">[2024/07]</span><span class="news-body">Two co-authored papers accepted by ACM CIKM 2024.</span></li>
+<li><span class="news-date">[2024/05]</span><span class="news-body">One paper accepted by IEEE TKDE.</span></li>
+<li><span class="news-date">[2024/05]</span><span class="news-body">One paper accepted by ACM SIGKDD'24.</span></li>
+<li><span class="news-date">[2023/12]</span><span class="news-body">One paper accepted by IEEE Transactions on Mobile Computing.</span></li>
+<li><span class="news-date">[2023/05]</span><span class="news-body">Two papers accepted by ACM SIGKDD'23.</span></li>
 </ul>
 </details>
 
