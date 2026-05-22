@@ -44,6 +44,7 @@ I am also continuously hiring remote research interns and open to various forms 
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">[2026/05]</span> One very interesting co-authored paper on bias in LLM career recommendations accepted by IEEE Intelligent Systems.</li>
 <li><span class="news-date">[2026/05]</span> Winner of the <a href="https://www.pal2sim.com/">CPS-IoT Week Pal2Sim competition</a>.</li>
 <li><span class="news-date">[2026/05]</span> One co-authored paper accepted by ACM KDD 2026 AI4S track.</li>
 <li><span class="news-date">[2026/04]</span> New preprint online: <a href="https://arxiv.org/abs/2604.10172">Wearable AI in the Era of Large Sensor Models</a>.</li>
@@ -51,12 +52,12 @@ I am also continuously hiring remote research interns and open to various forms 
 <li><span class="news-date">[2025/12]</span> Our paper about <strong>language models for urban mobility</strong> is online. <a href="http://dx.doi.org/10.36227/techrxiv.176703984.41856875/v1">Paper (TechRxiv)</a></li>
 <li><span class="news-date">[2025/11]</span> Two papers accepted by ACM KDD 2026.</li>
 <li><span class="news-date">[2025/05]</span> Our Cascaded diffusion model based trajectory generation paper is online.</li>
-<li><span class="news-date">[2024/09]</span> I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program.</li>
 </ul>
 
 <details class="news-more">
 <summary class="news-more-summary">▸ More news</summary>
 <ul class="news-list">
+<li><span class="news-date">[2024/09]</span> I join SMART centre, MIT as a postdoc associate. I am involved in Mens, Manus, and Machina (M3S) program.</li>
 <li><span class="news-date">[2024/07]</span> Two co-authored papers accepted by ACM CIKM 2024.</li>
 <li><span class="news-date">[2024/05]</span> One paper accepted by IEEE TKDE.</li>
 <li><span class="news-date">[2024/05]</span> One paper accepted by ACM SIGKDD'24.</li>
