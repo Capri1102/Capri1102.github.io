@@ -44,7 +44,7 @@ I am also continuously hiring remote research interns and open to various forms 
 ## News
 
 <ul class="news-list">
-<li><span class="news-date">[2026/05]</span> One very interesting co-authored paper on bias in LLM career recommendations accepted by IEEE Intelligent Systems.</li>
+<li><span class="news-date">[2026/05]</span> One interesting co-authored paper on bias in LLM career recommendations accepted by IEEE Intelligent Systems.</li>
 <li><span class="news-date">[2026/05]</span> Winner of the <a href="https://www.pal2sim.com/">CPS-IoT Week Pal2Sim competition</a>.</li>
 <li><span class="news-date">[2026/05]</span> One co-authored paper accepted by ACM KDD 2026 AI4S track.</li>
 <li><span class="news-date">[2026/04]</span> New preprint online: <a href="https://arxiv.org/abs/2604.10172">Wearable AI in the Era of Large Sensor Models</a>.</li>
