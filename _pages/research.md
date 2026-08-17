@@ -25,6 +25,8 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 
 <div class="talk-list-wrapper">
 <ul class="news-list talk-list">
+<li><span class="news-date">[2026/08]</span> Oral presentation at KDD 2026 Research Track on Structured Data Synthesis and Generation.</li>
+<li><span class="news-date">[2026/07]</span> Presentation at M3S Symposium, MIT on Large-scale City Simulation.</li>
 <li><span class="news-date">[2026/01]</span> Presentation at M3S seminar, SMART, MIT on Generative AI for Urban Mobility: From Physical Trajectory Synthesis to Mental Agentic Simulation.</li>
 <li><span class="news-date">[2025/05]</span> Presentation at SRB seminar, JTL Lab, MIT on Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion.</li>
 <li><span class="news-date">[2024/08]</span> Oral Talk at KDD 2024 on Multi-task Conditional Recommendation for our accepted paper</li>
