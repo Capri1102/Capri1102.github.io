@@ -41,15 +41,15 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 ### Students I work with
 
 * **Donghang Li** — Master student, MIT
-* **Jiahao Shu** — Undergraduate student, USTC; Incoming M.S. student, CMU
+* **Zhoufu Wang** — Undergraduate student, NTU
+* **Jiahao Shu** — Master student, CMU
 * **Yize Cai** — Phd student, HKUST GZ
 * **Lidan Cao** — Phd student, HKUST GZ
-* **Zhoufu Wang** — Undergraduate student, NTU
 
 ### Previously mentored
 
 * **Ray Lay** — Undergraduate student, SUTD
-* **Weibing Wang** — Incoming M.S. student, MIT
+* **Weibing Wang** — Master student, MIT
 
 
 
