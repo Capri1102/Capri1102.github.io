@@ -108,16 +108,20 @@ details.news-more ul.news-list {
   background: transparent;
 }
 
-// Talk list (research page): whole box scrolls horizontally, one line per item, minimal spacing, bordered
+// Talk list (research page): one line per item; show ~10 rows, then scroll vertically
 .talk-list-wrapper {
+  --talk-row: 1.7em; // one compact line + gap
   border: 1px solid var(--global-divider-color);
   border-radius: 6px;
-  overflow-x: auto;
+  max-height: calc(var(--talk-row) * 8 + 1rem);
+  overflow: auto;
   margin-bottom: 2rem;
   padding: 0.5rem 0.75rem;
   -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
 
   &::-webkit-scrollbar {
+    width: 6px;
     height: 6px;
   }
 }
