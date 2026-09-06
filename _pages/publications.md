@@ -24,16 +24,48 @@ nav_order: 2
   In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026  
   († **Corresponding author**)
 
+* **SENSE: Satellite-based ENergy Synthesis for Sustainable Environment**  
+  Kailai Sun, Mingyi He, Heye Huang, Can Rong, Alok Prakash, **Baoshen Guo**, Shenhao Wang, Jinhua Zhao  
+  In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026  
+  \[[arXiv](https://arxiv.org/abs/2605.18101)\]
+
+* **Next Token Prediction for Generalizable Human Activity Recognition**  
+  Yize Cai, Anlan Yu, **Baoshen Guo**, Yunhuai Liu, Zhiqing Hong  
+  In Proceedings of the 35th ACM International Conference on Information and Knowledge Management (**CIKM**), Full Research Papers, 2026 (Oral)
+
+* **Adapting Pretrained Large Vision Models for Sensor-based Activity Recognition**  
+  Yize Cai, Rui Feng, Kunlin Cai, Yunhuai Liu, **Baoshen Guo**, Zhiqing Hong  
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT** / UbiComp), 2026  
+  \[[Code](https://github.com/saiketa/VisionHAR)\]
+
+* **Leveraging Vision-Language Knowledge for Generalizable Human Activity Recognition**  
+  Yize Cai, Anlan Yu, **Baoshen Guo**, Zhiqing Hong  
+  ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**), Posters, 2026
+
+* **Longitudinal Context Enhancement for Daily Guidance Generation in Personal Health Agents**  
+  Yize Cai, Chiew Hui Lim, Anlan Yu, **Baoshen Guo**, Zhiqing Hong  
+  ACM International Joint Conference on Pervasive and Ubiquitous Computing (**UbiComp**), Student Challenge, 2026
 
 * **UrbanPOI: Updating Urban POIs with Large-scale Crowdsourcing for Location-based Services**  
   Zhiqing Hong, **Baoshen Guo**, Wenjun Lyu, Haotian Wang, Yunhuai Liu, Guang Wang, Tian He, Desheng Zhang  
   IEEE Transactions on Mobile Computing (**TMC**), 2026  
   \[[DOI](https://doi.org/10.1109/TMC.2026.3670149)\]
 
+
+* **Enhancing the Socioeconomic Understanding of Foundation Models with Urban Mobility**  
+  **Baoshen Guo**, Donghang Li, Zhiqing Hong, Kailai Sun, Heye Huang, Alok Prakash, Shenhao Wang  
+  arXiv:2606.01745, 2026  
+  \[[arXiv](https://arxiv.org/abs/2606.01745)\]
+
 * **Wearable AI in the Era of Large Sensor Models**  
   Yize Cai, **Baoshen Guo**, Guobin Shen, Zhiqing Hong  
   arXiv:2604.10172, 2026  
-  \[[arXiv](https://arxiv.org/abs/2604.10172)\] 
+  \[[arXiv](https://arxiv.org/abs/2604.10172)\]
+
+* **BenchHAR: Benchmarking Self-Supervised Learning for Generalizable Sensor-based Activity Recognition**  
+  Yize Cai, Rui Feng, Anlan Yu, **Baoshen Guo**, Zhiqing Hong  
+  arXiv:2605.08296, 2026  
+  \[[arXiv](https://arxiv.org/abs/2605.08296)\]\[[Code](https://github.com/saiketa/HAR-Bench)\] 
 
 ## 2025
 
