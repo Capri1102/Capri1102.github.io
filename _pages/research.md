@@ -42,6 +42,7 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 
 * **Donghang Li** — Master student, MIT
 * **Zhoufu Wang** — Undergraduate student, NTU
+* **Mingyi He** — Master student, MIT
 * **Jiahao Shu** — Master student, CMU
 * **Yize Cai** — Phd student, HKUST GZ
 * **Lidan Cao** — Phd student, HKUST GZ
