@@ -15,7 +15,7 @@ profile:
   image_circular: false
   more_info: >
     <p style="display: block; text-align: center; font-size: 0.75rem; color: var(--global-text-color-light);">Taken at Flume Gorge, NH, Oct 2026</p>
-    <p>baoshen@mit.edu</p>
+    <p style="display: block; text-align: center;">baoshen@mit.edu</p>
 news: false # news is written in markdown below (no template)
 selected_papers: true # from layout; order is: News → Personal → Selected Publications
 social: true # includes social icons at the bottom of the page
