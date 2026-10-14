@@ -21,8 +21,8 @@ selected_papers: true # from layout; order is: News → Personal → Selected Pu
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT), work with Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) and Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/). 
-I am involved in [M3S](https://m3s.mit.edu/), part of MIT' [SMART](https://smart.mit.edu/) program.
+I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT). 
+I am involved in [T5](https://m3s.mit.edu/t5-integrated-human-machine-intelligence-for-economic-growth) of [M3S](https://m3s.mit.edu/), where I lead and coordinate the team on the Generative AI and Agentic City project, working with Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) and Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/). 
 
 I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/) (**Fellow of CAE, IEEE**).
 Previously, I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en) (**Fellow of ACM, IEEE, and AAAS**). 
@@ -44,6 +44,7 @@ I am also continuously hiring remote research interns and open to various forms 
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">[2026/10]</span><span class="news-body">Concluded a three-week research visit at MIT and gave a talk at the MIT Senior Research Seminar.</span></li>
 <li><span class="news-date">[2026/09]</span><span class="news-body">Two papers accepted by <a href="https://netmob.org/www26/">NetMob 2026</a>.</span></li>
 <li><span class="news-date">[2026/08]</span><span class="news-body">Our paper on world models for safety-critical robotics received the <span style="color: #2563eb">Best Presentation Award</span> at the IEEE CASE 2026 Workshop.</span></li>
 <li><span class="news-date">[2026/08]</span><span class="news-body">One paper accepted by ACM CIKM 2026.</span></li>

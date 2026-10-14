@@ -25,6 +25,7 @@ For publications, see [Publications]({{ '/publications/' | relative_url }}).
 
 <div class="talk-list-wrapper">
 <ul class="news-list talk-list">
+<li><span class="news-date">[2026/10]</span><span class="news-body">In-person talk at MIT Senior Research Seminar on Semantic Representation and Mobility Foundation Models.</span></li>
 <li><span class="news-date">[2026/08]</span><span class="news-body">Oral presentation at KDD 2026 Research Track on Structured Data Synthesis and Generation.</span></li>
 <li><span class="news-date">[2026/07]</span><span class="news-body">Presentation at M3S Symposium, MIT on Large-scale City Simulation.</span></li>
 <li><span class="news-date">[2026/01]</span><span class="news-body">Presentation at M3S seminar, SMART, MIT on Generative AI for Urban Mobility: From Physical Trajectory Synthesis to Mental Agentic Simulation.</span></li>
