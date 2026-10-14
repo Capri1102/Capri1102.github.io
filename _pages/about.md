@@ -12,11 +12,10 @@ subtitle: |
 profile:
   align: right
   image: flume-gorge.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
+    <p style="display: block; font-size: 0.75rem; color: var(--global-text-color-light);">Taken at Flume Gorge, NH</p>
     <p>baoshen@mit.edu</p>
-    <p style="display: block; font-size: 0.75rem; color: var(--global-text-color-light);">Photo taken at Flume Gorge, NH</p>
-
 news: false # news is written in markdown below (no template)
 selected_papers: true # from layout; order is: News → Personal → Selected Publications
 social: true # includes social icons at the bottom of the page
