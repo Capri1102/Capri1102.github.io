@@ -7,7 +7,7 @@ subtitle: |
   Postdoc Associate,  
   [Mens, Manus, and Machina (M3S)](https://m3s.mit.edu/),  
   [Singapore-MIT Alliance for Research and Technology](https://smart.mit.edu/),  
-  Massachusetts Institute of Technology.
+  [Massachusetts Institute of Technology](https://mobility.mit.edu/people/baoshen-guo/).
 
 profile:
   align: right
@@ -21,11 +21,11 @@ selected_papers: true # from layout; order is: News → Personal → Selected Pu
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT). 
+I am a postdoc associate at the Singapore-MIT Alliance for Research and Technology (SMART), Massachusetts Institute of Technology (MIT). 
 I am involved in [T5](https://m3s.mit.edu/t5-integrated-human-machine-intelligence-for-economic-growth) of [M3S](https://m3s.mit.edu/), where I lead and coordinate the team on the Generative AI and Agentic City project, working with Prof. [Jinhua Zhao](https://mobility.mit.edu/people/jinhua-zhao) and Prof. [Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/). 
 
-I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/) (**Fellow of CAE, IEEE**).
-Previously, I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en) (**Fellow of ACM, IEEE, and AAAS**). 
+Previously, I did one year of research at McGill University, Montreal as a Graduate Research Trainee, under the supervision of Prof. [Steve Xue Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/) (**Fellow of CAE, IEEE**).
+I obtained my Ph.D. degree in Computer Science from Southeast University, under supervision of Prof. [Shuai Wang](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=zh-CN) and Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en) (**Fellow of ACM, IEEE, and AAAS**). 
 I am also working with Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/) in research. 
 My research interests are broadly in the areas of Generative AI, Diffusion Model, Smart Cities, and Cyber-Physical Systems.
 My works have been recognized by the IEEE Real-Time Systems Committee with the **Outstanding Paper Award of RTSS, 2021 (CCF-A)** and the Distinguish Paper Award of the IoT Committee, Chinese Institute of Electronics. I was also awarded the Best Student Paper Award of ICA3PP and the Best Paper Candidate of RTSS. 
