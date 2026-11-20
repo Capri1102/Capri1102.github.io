@@ -10,7 +10,13 @@ nav_order: 3
 
 ### Awards
 
+
+
 * **Outstanding Paper Award of IEEE RTSS, 2021 (CCF-A)** \[[Award](https://ieeexplore.ieee.org/abstract/document/9622333)\] \[[Certificate]({{ '/assets/img/rtss21-guo.jpg' | relative_url }})\]
+
+* **Winner of the CPS-IoT Week Pal2Sim Competition, 2026** \[[Link](https://www.pal2sim.com/)\]
+
+* **Best Presentation Award** at the IEEE CASE 2026 Workshop, for our paper on world models for safety-critical robotics
 
 * **Best Student Paper Award of ICA3PP, 2023**
 
@@ -20,7 +26,7 @@ nav_order: 3
 
 * **Best Student Paper Award of IEEE ISPA, 2023**
 
-* **KDD Travel Grant Award, 2023**
+* KDD Travel Grant Award, 2023
 
 * National Doctoral Scholarship, 2023
 
@@ -28,7 +34,7 @@ nav_order: 3
 
 * Outstanding Thesis Award, Southeast University, 2019
 
-<div class="text-color-box" markdown="1">
+<!-- <div class="text-color-box" markdown="1">
 
 ### Misc
 
@@ -39,7 +45,7 @@ Recently, I enjoy listening to several podcasts:
 * **Demis Hassabis** (Co-founder and CEO of DeepMind) – [The future of intelligence](https://www.youtube.com/watch?v=PqVbypvxDto&list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj&index=1)
 
 I've been enjoying vibe coding since last year.
-</div>
+</div> -->
 
 ### Working Experiences
 
