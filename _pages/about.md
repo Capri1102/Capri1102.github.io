@@ -44,6 +44,7 @@ I am also continuously hiring remote research interns and open to various forms 
 ## News
 
 <ul class="news-list">
+<li><span class="news-date">[2026/11]</span><span class="news-body">I led team SymPhi to <span style="color: #2563eb">first place</span> in the nuPlan track of the <a href="https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026">NVIDIA Alpasim E2E Closed-Loop Challenge 2026</a>.</span></li>
 <li><span class="news-date">[2026/11]</span><span class="news-body">One paper accepted by ACM KDD 2027 AI4S track.</span></li>
 <li><span class="news-date">[2026/10]</span><span class="news-body">Concluded a three-week research visit at MIT and gave a talk at the MIT Senior Research Seminar.</span></li>
 <li><span class="news-date">[2026/09]</span><span class="news-body">Two papers accepted by <a href="https://netmob.org/www26/">NetMob 2026</a>.</span></li>

@@ -14,6 +14,8 @@ nav_order: 3
 
 * **Outstanding Paper Award of IEEE RTSS, 2021 (CCF-A)** \[[Award](https://ieeexplore.ieee.org/abstract/document/9622333)\] \[[Certificate]({{ '/assets/img/rtss21-guo.jpg' | relative_url }})\]
 
+* **First Place**, nuPlan Track, NVIDIA Alpasim E2E Closed-Loop Challenge 2026 (Team SymPhi, SMART) \[[Link](https://huggingface.co/spaces/nvidia/AlpasimE2EClosedLoopChallenge2026)\]
+
 * **Winner of the CPS-IoT Week Pal2Sim Competition, 2026** \[[Link](https://www.pal2sim.com/)\]
 
 * **Best Presentation Award** at the IEEE CASE 2026 Workshop, for our paper on world models for safety-critical robotics
